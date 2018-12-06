@@ -69,6 +69,7 @@ public class TestResposableEquipe {
 		/**/
 		link = driver.findElement(By.xpath("//*[contains(text(),'enregistrer')]"));
 		link.click();
+		
 		Thread.sleep(4000);
 		
 		
